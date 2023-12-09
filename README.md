@@ -23,8 +23,7 @@
 
 <!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
   <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
-</td>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moshiurrahmansourave&theme=iceberg&border_radius=3.1&card_width=600)](https://git.io/streak-stats)
 
 <td width="40%" align="center">
 
@@ -33,5 +32,6 @@
   </td>
 </tr>
 </table>
-</p>        
+</p>  
+
 <!--- stats (end) -->

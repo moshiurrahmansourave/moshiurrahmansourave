@@ -12,26 +12,27 @@
 </p>
 
 <br><br>
+ 
 
-<h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
 
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=moshiurrahmansourave&theme=iceberg&border_radius=3.1&card_width=600)](https://git.io/streak-stats)
+## 📈 My GitHub Stats and Activity
 
-<td width="40%" align="center">
+<div>
+<!--   <p align="center">
+    <b><em>Now listening to:</em></b> <br/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=Bhargavi-hash&cover_image=true&theme=novatorem" alt="Now Listenting to" />
+  </p> -->
+  
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moshiurrahmansourave" alt="GitHub Stats" /> <br/><br/>
+  
+</div>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unsimpledev&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+![My github status](https://github-readme-stats.vercel.app/api?username=moshiurrahmansourave&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshiurrahmansourave&layout=compact)
 
-  </td>
-</tr>
-</table>
-</p>  
+---------------------------------------------------------------------------------------------------------------------
+
 
 <!--- stats (end) -->

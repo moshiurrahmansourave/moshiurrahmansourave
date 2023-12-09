@@ -1,15 +1,26 @@
 ## Hi, I'm Moshiur Rahman
 ![](https://raw.githubusercontent.com/moshiurrahmansourave/moshiurrahmansourave/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner%20(2).png)
 
+<br>
 
+<!-- Personal Stuffs -->
+<h3> Talking about personal stuffs:</h3>
+
+- 📝 i'm reading on honours in botany at naogaon govt college
+
+- 👨🏽‍💻 I’m currently working on programming
+
+- 🌱 I’m currently learning Full stack development.
+
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)**
 
 <br>
 
-<h2 >The tecnologes👨🏻‍💻</h2>
+<h2 >My skills👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,firebase,mongodb,vite,perline=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,nodejs,firebase,react,mongodb,vite,perline=12" />
   </a>
 </p>
 

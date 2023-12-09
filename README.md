@@ -1,4 +1,6 @@
-### Hi Friend I'm Moshiur Rahman 👋
+## Hi, I'm Moshiur Rahman
+![](https://raw.githubusercontent.com/rafnixg/rafnixg/master/rafnix_header.jpeg)
+
 
 
 <br>
@@ -25,12 +27,13 @@
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=moshiurrahmansourave" alt="GitHub Stats" /> <br/><br/>
-  
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moshiurrahmansourave&theme=algolia)
+    
 </div>
 
-![My github status](https://github-readme-stats.vercel.app/api?username=moshiurrahmansourave&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshiurrahmansourave&layout=compact)
+![My github status](https://github-readme-stats.vercel.app/api?username=moshiurrahmansourave&show_icons=true&include_all_commits=true&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshiurrahmansourave&layout=compact&theme=dark&bg_color=0A0A0A)
 
 ---------------------------------------------------------------------------------------------------------------------
 
